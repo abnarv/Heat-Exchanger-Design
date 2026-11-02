@@ -46,7 +46,7 @@ The design computes the final actual Overall Heat Transfer Coefficient (\(U_o\))
 ---
 
 =======================================================
-       HEAT EXCHANGER DESIGN CALCULATION SUMMARY       
+              Design Calculation Summary 
 =======================================================
                          Parameter        Value           Unit
           Caloric Temp (Hot Fluid)     138.2000             °F
