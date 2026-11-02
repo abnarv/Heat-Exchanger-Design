@@ -43,7 +43,6 @@ Instead of generalized assumptions, the script evaluates convective heat transfe
 The design computes the final actual Overall Heat Transfer Coefficient (\(U_o\)) across the complete fouling and conductive boundaries:
 \[\frac{1}{U_o} = \frac{1}{h_o} + R_{dg} + \left[\frac{d_o - d_i}{2k_w}\right]\left(\frac{d_o}{d_i}\right) + R_{dk}\left(\frac{d_o}{d_i}\right) + \frac{1}{h_i}\left(\frac{d_o}{d_i}\right)\]
 
----
 
 =======================================================
               Design Calculation Summary 
@@ -56,7 +55,6 @@ The design computes the final actual Overall Heat Transfer Coefficient (\(U_o\))
                               LMTD      42.4509             °F
             Correction Factor (Ft)       0.8024              -
             Heat Transfer Area (A)    2113.8468          sq ft
-            ...
  Total Tube Pressure Drop (delP_T)       6.4797            psi
 Total Shell Pressure Drop (delP_S)       1.3591            psi
               Percent Over Surface      10.7421              %
